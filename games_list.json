@@ -1,0 +1,25 @@
+{
+    "games":[
+        {
+            "game":"Ace Attorney Investigations: Miles Edgeworth",
+            "platform":"Xbox"
+        },
+        {
+            "game":"Mario and Luigi: Brothership",
+            "platform":"Nintendo Switch"
+        },
+        {
+            "game":"Halo: Combat Evolved",
+            "platform":"Xbox"
+        },
+        {
+            "game":"Starfield",
+            "platform": "Xbox"
+        },
+        {
+            "game":"Stardew Valley",
+            "platform":"Nintendo Switch"
+        }
+    ],
+    "year":2025
+}
