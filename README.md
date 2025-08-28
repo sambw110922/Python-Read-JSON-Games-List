@@ -5,6 +5,7 @@ The files in this project:
 - games_list.json - this is the actual JSON file.
 - games_list.py - this is the main Python file that runs the program.
 - games_reader.py - this class actually reads the JSON file and then converts it into a Single Game class.
+- reader_menu.py - this class provides the menu for the user to use.
 - single_game.py - this class is a Python class of the JSON game.
 
 This project was a learning project and not really meant to be used for anything properly.
